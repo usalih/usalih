@@ -1,6 +1,4 @@
- Hello Techgees👋
-Hey there!  I'm Samuel
-usalih/usalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello Techgees👋, I'm Usman.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub Streak](https://streak-stats.demolab.com/usalih)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=usalih)](https://git.io/streak-stats)
